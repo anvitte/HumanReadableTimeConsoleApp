@@ -19,8 +19,8 @@ namespace ConsoleApp.Tests
         /// <summary>
         /// This test method will test the below inputs and based on that it will pass and fail the test cases
         /// </summary>
-        /// <param name="time"></param>
-        /// <param name="humanReadableText"></param>
+        /// <param name="time">Enter time as input</param>
+        /// <param name="humanReadableText">Enter expected output in test case</param>
         [TestMethod]
         //Pass Test Cases
         [DataRow("02:16", "Sixteen past two")]
