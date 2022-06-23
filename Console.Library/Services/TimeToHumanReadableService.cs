@@ -8,7 +8,7 @@ using Humanizer;
 namespace ConsoleApp.Library.Services
 {
     /// <summary>
-    /// Time to Hum Readable Service which will convert time to human readable string
+    /// It will convert time to human readable string
     /// </summary>
     public class TimeToHumanReadableService : ITimeToHumanReadable
     {
